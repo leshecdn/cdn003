@@ -1,0 +1,2 @@
+# cdn003
+JPG/CDN
